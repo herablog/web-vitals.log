@@ -1,0 +1,14 @@
+{
+  "name": "@herablog/web-vitals.log",
+  "version": "0.0.1",
+  "description": "Outputs Core Web Vitals to console for debugging.",
+  "module": "web-vitals.log.js",
+  "scripts": {
+    "test": "npx eslint ."
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "herablog <kz.route21@gmail.com>",
+  "license": "MIT"
+}
