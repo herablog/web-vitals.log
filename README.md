@@ -17,7 +17,7 @@ You can also see the specific element name with the value. This can be helpful f
 This script can load via JavaScript module. 
 
 ```html
-<script type="module" src="https://unpkg.com/@herablog/web-vitals.log/web-vitals.log"></script>
+<script type="module" src="https://unpkg.com/@herablog/web-vitals.log@0.1.1/web-vitals.log.js"></script>
 ```
 
 **NOTE**: This script should not be used in production environment.
