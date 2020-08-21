@@ -4,7 +4,8 @@
   "description": "Outputs Core Web Vitals to console for debugging.",
   "module": "web-vitals.log.js",
   "scripts": {
-    "test": "npx eslint ."
+    "test": "npx eslint .",
+    "changelog": "npx -p conventional-changelog-cli -c 'conventional-changelog -p angular -i CHANGELOG.md -s'"
   },
   "publishConfig": {
     "access": "public"
