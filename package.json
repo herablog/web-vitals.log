@@ -1,6 +1,6 @@
 {
   "name": "@herablog/web-vitals.log",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Outputs Core Web Vitals to console for debugging.",
   "module": "web-vitals.log.js",
   "scripts": {
