@@ -1,4 +1,4 @@
-import { getCLS, getFID, getLCP } from 'https://unpkg.com/web-vitals@0.2.4/dist/web-vitals.es5.min.js?module';
+import { getCLS, getFID, getLCP } from 'https://unpkg.com/web-vitals?module';
 
 // Core Web Vitals thresholds
 // Currently supports Core Web Vitals 2020
