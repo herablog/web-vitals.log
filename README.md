@@ -25,4 +25,8 @@ This script can load via JavaScript module.
 ### Production
 Browser extension like [Custom JavaScript for websites](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija) may be useful when you track the metrics in production.
 
+```JavaScript
+import('https://unpkg.com/@herablog/web-vitals.log@0.2.0/web-vitals.log.js');
+```
+
 ![Load script with "import('https://unpkg.com/@herablog/web-vitals.log@0.2.0/web-vitals.log.js');" in Custom JavaScript for websites](https://github.com/herablog/web-vitals.log/raw/main/screenshots/extension.png)
